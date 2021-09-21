@@ -40,6 +40,7 @@ Remizov's arduino programming tool - excellent solution for flashing RTD2660 dev
 http://www.pccar.ru/showthread.php?p=400231#post400231
 
 Final version 2.3 of Remizov's progtool
-
 http://www.pccar.ru/showpost.php?p=415519&postcount=34
 https://disk.yandex.ru/d/jB8rdftST0etYw
+
+.
