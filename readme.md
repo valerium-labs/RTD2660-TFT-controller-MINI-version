@@ -33,20 +33,15 @@ start the program "RTD266X Arduino Burning Serial Flash Memory 2.3.exe" and feed
 
 Links:
      
-Forum topic on "Narodniy" TFT-controller (Russian only):
-
+Forum topic on "Narodniy" TFT-controller (Russian only)
 https://zx-pk.ru/threads/32683-vyvod-izobrazheniya-retrokompyutera-na-tft-matritsu-(-quot-narodnyj-kontroller-quot-).html
 
-
-Remizov's arduino programming tool - excellent solution for flashing RTD2660 devices (Russian only):
-
+Remizov's arduino programming tool - excellent solution for flashing RTD2660 devices (Russian only)
 http://www.pccar.ru/showthread.php?p=400231#post400231
-
-
-Final version 2.3 of Remizov's progtool:
-
+Last version:
 http://www.pccar.ru/showpost.php?p=415519&postcount=34
 
-https://disk.yandex.ru/d/jB8rdftST0etYw
 
-.
+Final version 2.3 of Remizov's progtool
+http://www.pccar.ru/showpost.php?p=415519&postcount=34
+https://disk.yandex.ru/d/jB8rdftST0etYw
